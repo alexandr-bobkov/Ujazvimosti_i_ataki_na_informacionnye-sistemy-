@@ -159,10 +159,10 @@
 ### Сессии сканирования (нажмите для скачивания файлов):
 ### Сессии сканирования (нажмите для скачивания файлов):
 
-*   [Файл записи SYN-сканирования (sS.pcap)](https://github.com /alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sS.pcap)
-*   [Файл записи FIN-сканирования (sF.pcap)](https://github.com /alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sF.pcap)
-*   [Файл записи Xmas-сканирования (sX.pcap)](https://github.com /alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sX.pcap)
-*   [Файл записи UDP-сканирования (sU.pcap)](https://github.com /alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sU.pcap)
+*   [Файл записи SYN-сканирования (sS.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sS.pcap)
+*   [Файл записи FIN-сканирования (sF.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sF.pcap)
+*   [Файл записи Xmas-сканирования (sX.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sX.pcap)
+*   [Файл записи UDP-сканирования (sU.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-/blob/main/sU.pcap)
 
 
 
