@@ -156,11 +156,12 @@
     *   **Если порт открыт:** Сервер либо присылает в ответ свой UDP-пакет (если служба поняла запрос, как в случае с DNS на порту 53), либо **не отвечает ничего** (если пакет был пустым, а служба ждала структуру).
     *   **Если порт закрыт:** Операционная система Metasploitable генерирует служебный ответ совершенно другого протокола — **ICMP**. В Wireshark четко видны входящие пакеты с ошибкой `ICMP Destination unreachable (Port unreachable)` (Тип 3, Код 3). Это главный признак закрытого UDP-порта.
 
-### Файлы дампов трафика (сессии сканирования):
-*   [Файл записи SYN-сканирования (sS.pcap)](ss.pcap)
-*   [Файл записи FIN-сканирования (sF.pcap)](sf.pcap)
-*   [Файл записи Xmas-сканирования (sX.pcap)](sx.pcap)
-*   [Файл записи UDP-сканирования (sU.pcap)](su.pcap)
+### Сессии сканирования (нажмите для скачивания файлов):
+*   [Файл записи SYN-сканирования (ss.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-.git)
+*   [Файл записи FIN-сканирования (sf.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-.git)
+*   [Файл записи Xmas-сканирования (sx.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-.git)
+*   [Файл записи UDP-сканирования (su.pcap)](https://github.com/alexandr-bobkov/Ujazvimosti_i_ataki_na_informacionnye-sistemy-.git)
+
 
 
 
